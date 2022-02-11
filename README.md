@@ -1,5 +1,10 @@
 # Integrantes do grupo
-Trabalho solicitado por **Ricardo Rubens**, professor de Programação Orientada a Objetos do **Instituto Federal de Alagoas (IFAL)** e realizado por: 
+Trabalho solicitado por **Ricardo Rubens**, professor de Programação Orientada a Objetos do **Instituto Federal de Alagoas (IFAL)** e realizado por:
+
+- Alexia
+- Bruno
+- Isaque
+- Ytalo
 
 Turma: **922A**
 
