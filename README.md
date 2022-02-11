@@ -1,11 +1,6 @@
 #Integrantes do grupo
 Trabalho solicitado por **Ricardo Rubens**, professor de Programação Orientada a Objetos do **Instituto Federal de Alagoas (IFAL)** e realizado por: 
 
-- Alexia Rodrigues dos Santos
-- Bruno Lucas dos Santos
-- Isaque de Souza Braga
-- Ytalo dos Santos Amorim
-
 Turma: **922A**
 
 ## Mudanças feitas desde a Parte 1 do PROOJETO
